@@ -8,6 +8,7 @@
 |Anambra| Awka|
 |Bauchi| Bauchi|
 |Benue| Makurdi|
-
+|Borno|maiduguri|
+|Cross-River|Calabar|
 
 
