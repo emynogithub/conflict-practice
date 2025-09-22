@@ -10,5 +10,9 @@
 |Benue| Makurdi|
 |Borno|maiduguri|
 |Cross-River|Calabar|
+|Delta|Asaba|
+|Edo|Benin city|
+|Enugu|Enugu|
+ 
 
 
