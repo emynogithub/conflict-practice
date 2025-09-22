@@ -13,6 +13,7 @@
 |Delta|Asaba|
 |Edo|Benin city|
 |Enugu|Enugu|
- 
+|Jigawa|Dutse|
+
 
 
